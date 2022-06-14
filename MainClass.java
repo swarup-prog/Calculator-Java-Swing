@@ -1,6 +1,13 @@
 // Import Necessary Packages
 import javax.swing.*;
+import java.awt.*;
 
-public static void main(String[] args) {
-    
+public class MainClass {
+    //========================== Components =============================
+    private JFrame frame;
+    private JPanel panel;
+
+    public MainClass() {
+        
+    }
 }
